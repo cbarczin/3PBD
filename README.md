@@ -1,0 +1,2 @@
+<h1 align="left">3PBD - Projeto de Banco de Dados</h1>
+<p align="left">A disciplina Processos de Banco de Dados (PBD), oferecida no curso de Análise e Desenvolvimento de Sistemas, visa capacitar os alunos a projetar, implementar e gerenciar bancos de dados de maneira eficiente. O curso aborda conceitos essenciais sobre modelagem de dados, linguagem SQL, normalização de bancos de dados e tecnologias associadas, além de técnicas para garantir a integridade e a segurança dos dados.</p>
